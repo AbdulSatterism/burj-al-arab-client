@@ -1,0 +1,27 @@
+.header-image {
+    background-image: url('../../images/hotelBG.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(-10px);
+    height: 300px;
+    width: 100%;
+
+}
+
+.text a {
+    color: white;
+    font-size: x-large;
+}
+
+.text a:hover {
+    color: orange;
+
+}
+
+.name {
+    margin: 50px 100px;
+}
+
+.name h1 {
+    color: yellow;
+}
